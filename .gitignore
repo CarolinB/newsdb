@@ -1,0 +1,5 @@
+./
+../
+*.png
+python_news.py
+.DS_Store

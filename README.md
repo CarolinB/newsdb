@@ -1,4 +1,4 @@
-#About newsdb.py
+# About newsdb.py
 
 It is a simple program designed for magazines or newspapers to print the output on  the 3 following questions to the console:
 1. What are the most popular three articles of all time?
@@ -7,11 +7,11 @@ It is a simple program designed for magazines or newspapers to print the output 
 
 The program is written in Python, using a relational DB and PostgreSQL.
 
-#Installation/Environment
+# Installation/Environment
 
 Requires Python 2.7 and PostgreSQL version 9.5.x.
 
-#Output example
+# Output example
 ```
 Most popular 3 articles of all time:
 
@@ -31,5 +31,5 @@ Days with more than 1% of all requests leading to errors:
 Jul 17, 2016 - 2.26
 ```
 
-#Licence
+# Licence
 No licence required.
